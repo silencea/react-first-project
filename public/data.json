@@ -1,0 +1,38 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "area": "中国", 
+            "java": 100,
+            "python": 30, 
+            "react": 60,
+            "go": 170, 
+            "ruby": 20
+        },
+        {
+            "area": "日本", 
+            "java": 120,
+            "python": 50, 
+            "react": 80,
+            "go": 270, 
+            "ruby": 20
+        },
+        {
+            "area": "美国", 
+            "java": 120,
+            "python": 50, 
+            "react": 80,
+            "go": 270, 
+            "ruby": 20
+        },
+        {
+            "area": "阿达里亚", 
+            "java": 120,
+            "python": 50, 
+            "react": 80,
+            "go": 270, 
+            "ruby": 20
+        }
+    ],
+    "msg": ""
+}
